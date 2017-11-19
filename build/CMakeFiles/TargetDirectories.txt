@@ -1,0 +1,3 @@
+/home/tomgeronimo/GradSchool/python_cr3bp/build/CMakeFiles/BoostCr3bp.dir
+/home/tomgeronimo/GradSchool/python_cr3bp/build/CMakeFiles/boost_cr3bp.dir
+/home/tomgeronimo/GradSchool/python_cr3bp/build/CMakeFiles/pylib.dir

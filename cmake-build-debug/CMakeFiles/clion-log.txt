@@ -1,0 +1,17 @@
+/media/tomgeronimo/Flotsam/Apps/clion-2017.2.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/tomgeronimo/GradSchool/python_cr3bp
+-- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython2.7.so (found version "2.7.6") 
+CMake Warning at /media/tomgeronimo/Flotsam/Apps/clion-2017.2.3/bin/cmake/share/cmake-3.8/Modules/FindBoost.cmake:765 (message):
+  Imported targets not available for Boost version 106501
+Call Stack (most recent call first):
+  /media/tomgeronimo/Flotsam/Apps/clion-2017.2.3/bin/cmake/share/cmake-3.8/Modules/FindBoost.cmake:869 (_Boost_COMPONENT_DEPENDENCIES)
+  /media/tomgeronimo/Flotsam/Apps/clion-2017.2.3/bin/cmake/share/cmake-3.8/Modules/FindBoost.cmake:1472 (_Boost_MISSING_DEPENDENCIES)
+  CMakeLists.txt:11 (FIND_PACKAGE)
+
+
+-- Boost version: 1.65.1
+-- Found the following Boost libraries:
+--   python
+-- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython2.7.so (found suitable version "2.7.6", minimum required is "2.7") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tomgeronimo/GradSchool/python_cr3bp/cmake-build-debug

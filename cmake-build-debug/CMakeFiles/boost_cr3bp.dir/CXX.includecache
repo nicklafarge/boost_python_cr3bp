@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tomgeronimo/GradSchool/python_cr3bp/boost_cr3bp.cpp
+iostream
+-
+algorithm
+-
+cmath
+-
+string
+-
+sstream
+-
+vector
+-
+boost/python.hpp
+-
+boost/python/list.hpp
+-
+boost/python/extract.hpp
+-
+boost/python/numpy.hpp
+-
+boost/python/stl_iterator.hpp
+-
+boost/numeric/odeint.hpp
+-
+boost/numeric/ublas/matrix.hpp
+-
+boost/numeric/ublas/io.hpp
+-
+boost/range/algorithm.hpp
+-
+boost/math/special_functions/sign.hpp
+-
+

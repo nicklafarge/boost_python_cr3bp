@@ -1,0 +1,6 @@
+/home/tomgeronimo/GradSchool/python_cr3bp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tomgeronimo/GradSchool/python_cr3bp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tomgeronimo/GradSchool/python_cr3bp/cmake-build-debug/CMakeFiles/test.dir
+/home/tomgeronimo/GradSchool/python_cr3bp/cmake-build-debug/CMakeFiles/BoostCr3bp.dir
+/home/tomgeronimo/GradSchool/python_cr3bp/cmake-build-debug/CMakeFiles/boost_cr3bp.dir
+/home/tomgeronimo/GradSchool/python_cr3bp/cmake-build-debug/CMakeFiles/pylib.dir
